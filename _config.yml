@@ -2,7 +2,7 @@
 title: Blog
 url: https://ziasquinn.github.io
 source: "/"
-baseurl: "/blog"
+baseurl: "/"
 permalink: pretty
 remote_theme: dark-poole
 
