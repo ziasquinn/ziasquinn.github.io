@@ -1,8 +1,7 @@
 # Setup
 title: Blog
-url: https://ziasquinn.github.io/blog
-paginate: 1
-paginate_path: "/baseurl/page:num/"
+url: https://ziasquinn.github.io
+source: "/"
 baseurl: "/blog"
 permalink: pretty
 remote_theme: dark-poole
