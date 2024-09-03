@@ -5,6 +5,7 @@ paginate: 1
 paginate_path: "/baseurl/page:num/"
 baseurl: "/blog"
 permalink: pretty
+remote_theme: dark-poole
 
 # Gems
 plugins:
